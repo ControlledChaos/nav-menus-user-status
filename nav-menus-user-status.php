@@ -2,7 +2,7 @@
 /**
  * Plugin Name:  Nav Menus User Status
  * Plugin URI:   https://github.com/ControlledChaos/nav-menus-user-status
- * Description:  Quickly customize your menus with a user's name & avatar, or show items based on user role.
+ * Description:  Show navigation menu items based on user login status.
  * Version:      0.2.9
  * Text Domain:  user-menus
  * Minimum PHP: 5.6
